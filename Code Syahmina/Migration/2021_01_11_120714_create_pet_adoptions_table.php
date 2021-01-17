@@ -9,7 +9,7 @@ class CreatePetAdoptionsTable extends Migration
     public function up()
     {
         Schema::create('pet_adoptions', function (Blueprint $table) {
-           //$table->timestamps();
+            $table->timestamps();
             $table->string('petName');
             $table->string('petType');
             $table->binary('pet_image');
