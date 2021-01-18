@@ -1,0 +1,1 @@
+The seeder is only to generate an admin account.

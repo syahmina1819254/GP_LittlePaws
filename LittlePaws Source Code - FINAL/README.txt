@@ -1,0 +1,1 @@
+This project involves Auth and Bootstrap CSS styling. Not all files related to these services were uploaded.
